@@ -10,7 +10,8 @@ public class SimpleCell extends SimpleButton {
         super(x, y, width, height, texture, name);
     }
 
-    //HOLA
+    // HOLA
+    // CHAU
 
     public void setTexture(Texture texture) {
         this.texture = texture;
