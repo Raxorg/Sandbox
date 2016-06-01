@@ -1,5 +1,5 @@
 package com.epicness.sandbox.gdxinternal;
-
+//unos errorsitos me joden jaja
 import com.badlogic.gdx.Gdx;
 import com.badlogic.gdx.graphics.g2d.SpriteBatch;
 
