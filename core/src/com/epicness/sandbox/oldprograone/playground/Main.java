@@ -1,8 +1,8 @@
-package com.epicness.sandbox.prograone.playground;
+package com.epicness.sandbox.oldprograone.playground;
 
 import com.badlogic.gdx.graphics.Color;
-import com.epicness.sandbox.prograone.adapters.GraphicalTools;
-import com.epicness.sandbox.prograone.adapters.IOSystem;
+import com.epicness.sandbox.oldprograone.adapters.GraphicalTools;
+import com.epicness.sandbox.oldprograone.adapters.IOSystem;
 
 public class Main implements IOSystem {
 
@@ -10,10 +10,6 @@ public class Main implements IOSystem {
     private Board board;
     private boolean gameStarted = false;
     private boolean playerOneTurn;
-    
-    // HOLA
-
-    // ADIOS
 
     public Main(GraphicalTools tools) {
         this.tools = tools;

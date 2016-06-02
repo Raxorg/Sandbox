@@ -1,4 +1,4 @@
-package com.epicness.sandbox.gdxinternal;
+package com.epicness.sandbox.oldgdxinternal;
 
 import com.badlogic.gdx.Gdx;
 import com.badlogic.gdx.ScreenAdapter;

@@ -1,4 +1,4 @@
-package com.epicness.sandbox.gdxinternal;
+package com.epicness.sandbox.oldgdxinternal;
 
 import com.badlogic.gdx.graphics.Texture;
 import com.badlogic.gdx.graphics.g2d.SpriteBatch;

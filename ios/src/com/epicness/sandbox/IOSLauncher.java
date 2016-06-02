@@ -1,17 +1,17 @@
 package com.epicness.sandbox;
 
-import org.robovm.apple.foundation.NSAutoreleasePool;
-import org.robovm.apple.uikit.UIApplication;
-
 import com.badlogic.gdx.backends.iosrobovm.IOSApplication;
 import com.badlogic.gdx.backends.iosrobovm.IOSApplicationConfiguration;
-import com.epicness.sandbox.prograone.adapters.AndroidAdapter;
+import com.epicness.test.GdxConnection;
+
+import org.robovm.apple.foundation.NSAutoreleasePool;
+import org.robovm.apple.uikit.UIApplication;
 
 public class IOSLauncher extends IOSApplication.Delegate {
     @Override
     protected IOSApplication createApplication() {
         IOSApplicationConfiguration config = new IOSApplicationConfiguration();
-        return new IOSApplication(new AndroidAdapter(), config);
+        return new IOSApplication(new GdxConnection(), config);
     }
 
     public static void main(String[] argv) {

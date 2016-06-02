@@ -1,7 +1,8 @@
-package com.epicness.sandbox.gdxinternal;
+package com.epicness.sandbox.oldgdxinternal;
 //unos errorsitos me joden jaja
 import com.badlogic.gdx.Gdx;
 import com.badlogic.gdx.graphics.g2d.SpriteBatch;
+import com.epicness.sandbox.oldgdxinternal.CommonAssets;
 
 import java.util.ArrayList;
 

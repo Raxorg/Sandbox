@@ -1,13 +1,13 @@
-package com.epicness.sandbox.gdxinternal;
+package com.epicness.sandbox.oldgdxinternal;
 
 import com.badlogic.gdx.Gdx;
 import com.badlogic.gdx.InputAdapter;
 import com.badlogic.gdx.Screen;
 import com.badlogic.gdx.graphics.Color;
 import com.badlogic.gdx.graphics.Texture;
-import com.epicness.sandbox.prograone.adapters.GameAdapter;
-import com.epicness.sandbox.prograone.adapters.GraphicalTools;
-import com.epicness.sandbox.prograone.adapters.IOSystem;
+import com.epicness.sandbox.oldprograone.adapters.GameAdapter;
+import com.epicness.sandbox.oldprograone.adapters.GraphicalTools;
+import com.epicness.sandbox.oldprograone.adapters.IOSystem;
 
 
 /**
